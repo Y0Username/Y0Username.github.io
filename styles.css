@@ -12,7 +12,7 @@ h1 {
 }
 
 #anotherh1:hover {
-    opacity: 50;
+    opacity: 21;
     transform: translateY(2px);
 }
 
