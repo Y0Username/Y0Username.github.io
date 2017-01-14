@@ -3,9 +3,19 @@ h1 {
     text-align: center;
     /*text-decoration: underline;*/
     font-family: "Comic Sans MS";
-
 }
 
+h2 {
+  color: blue;
+  text-align: left;
+  font-size: 12;
+}
+
+h3 {
+  color: black;
+  text-align: left;
+  font-size: 9;
+}
 #anotherh1 {
     color: green;
     font-family: "Times";
@@ -38,5 +48,5 @@ h1 {
 /*madhav*/
 
 #harambe {
-    width: 50%;
+    width: 15%;
 }
